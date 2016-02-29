@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[An Ideal Time to Start a Bank!]]></title>
         <description><![CDATA[An Ideal Time to Start a Bank!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/interstate-bank-developers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 06:12:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 06:33:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/interstate-bank-developers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Power of Banking</p>]]></description>
+            <link>https://thegrid.ai/interstate-bank-developers/a94e53e8-0cd3-4dbd-9bfb-90051110b876/index.html</link>
+            <guid isPermaLink="false">a94e53e8-0cd3-4dbd-9bfb-90051110b876</guid>
+            <pubDate>Mon, 29 Feb 2016 06:33:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>An opportunity exists today that may not likely come our way again!</p>]]></description>
-            <link>undefined4c1d7b77-bb8b-448e-8221-6b7d9363f9d4/index.html</link>
+            <link>https://thegrid.ai/interstate-bank-developers/4c1d7b77-bb8b-448e-8221-6b7d9363f9d4/index.html</link>
             <guid isPermaLink="false">4c1d7b77-bb8b-448e-8221-6b7d9363f9d4</guid>
             <pubDate>Mon, 29 Feb 2016 06:12:26 GMT</pubDate>
         </item>
